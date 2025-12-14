@@ -84,7 +84,7 @@ with st.sidebar:
         st.rerun()
 
 # === 主界面：顾客点餐 ===
-st.title("🍳 AI 智能私房菜")
+st.title("🍳 AI even店铺")
 st.caption("所见即所得：所有配图均由 AI 实时生成")
 
 # 购物车区域
